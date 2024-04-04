@@ -30,7 +30,10 @@ void input() {
     }
 }
 
-void LinearSearch() 
+void LinearSearch()
+{
+    char ch; //untuk menyimpan input dari pengguna yang menentukan apakah program akan melanjutkan pencarian atau tidak
+}
 
 int main()
 {
