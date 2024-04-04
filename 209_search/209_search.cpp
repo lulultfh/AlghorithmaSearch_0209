@@ -33,8 +33,15 @@ void input() {
 void LinearSearch()
 {
     char ch; //untuk menyimpan input dari pengguna yang menentukan apakah program akan melanjutkan pencarian atau tidak
-    int ctr; //untuk menyimpan jumlah perbandingan yang dilakukan
+    int ctr; //(Number of comparisons) untuk menyimpan jumlah perbandingan yang dilakukan
     int item; //untuk menyimpan angka yang ingin dicari dalam array
+
+    do {
+        while
+        {
+
+        }
+    }
 }
 
 int main()
