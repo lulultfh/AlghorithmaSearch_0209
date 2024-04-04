@@ -64,14 +64,19 @@ void LinearSearch()
 
 }
 
-void diplay()
+void display()
 {
-
+    cout << "Array elements are: ";
+    for (i = 0; i < n; i++)
+        cout << arr[i] << " ";
+    cout << endl;
 }
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    input();
+    LinearSearch();
+    display();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
