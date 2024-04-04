@@ -16,8 +16,12 @@ void input() {
         if ((n > 0) && (n <= 20))
             break;
         else
-            cout << "\nArray should have minimum 1 and maximum 20 elements.\n\n";
+            cout << "\nArray should have minimum 1 and maximum 20 elements.\n\n";  //if else for menentukan apaakh program akan melanjutkan eksekusi atau menampilkan pesan kesalahan
     }
+
+    //accept array elements
+    cout << "\n--------------------------------\n";
+    cout << "Enter array elements \n"; 
 }
 
 int main()
